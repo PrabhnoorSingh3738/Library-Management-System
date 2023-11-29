@@ -1,0 +1,4 @@
+{
+    "enviornment" : "local",
+    "DB_STRING" : "mongodb+srv://prabhnoorsingh3738:noor@cluster0.lgbfazh.mongodb.net/booking?retryWrites=true&w=majority"
+}
